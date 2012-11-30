@@ -1,0 +1,1145 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nilai",
+				"nilai_mean"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"la",
+				"landing-page"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"main",
+				"main-navigation"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"layak",
+				"layak_dinilai"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"num",
+				"num_rows"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"laya",
+				"layak_dinilai"
+			],
+			[
+				"Ge",
+				"Georgia"
+			],
+			[
+				"border-ri",
+				"border-right"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"Peserta",
+				"Peserta_model"
+			],
+			[
+				"form",
+				"form_validation"
+			],
+			[
+				"re",
+				"repeat-y"
+			],
+			[
+				"repea",
+				"repeat-x"
+			],
+			[
+				"ur",
+				"url(image-url.gif)"
+			],
+			[
+				"borde",
+				"border-bottom"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"Hel",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"H",
+				"Helvetica"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"img",
+				"image_data"
+			],
+			[
+				"nil",
+				"nilai_4"
+			],
+			[
+				"bol",
+				"bold_folder_labels"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"l",
+				"letter-spacing"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"arial",
+				"Arial, Helvetica, sans-serif"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"boder",
+				"border-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"curr",
+				"current-li"
+			],
+			[
+				"cur",
+				"current-li"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"bore",
+				"border-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"str",
+				"strVals"
+			],
+			[
+				"content",
+				"contents"
+			],
+			[
+				"ease",
+				"easeOutBounce"
+			],
+			[
+				"root",
+				"gupnp_root_device_new"
+			],
+			[
+				"no",
+				"no_antialias"
+			],
+			[
+				"ans",
+				"answer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/controllers/vote.php",
+			"settings":
+			{
+				"buffer_size": 502,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vote/form.php",
+			"settings":
+			{
+				"buffer_size": 618,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/wrapper.php",
+			"settings":
+			{
+				"buffer_size": 294,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"pc",
+				"Package Control: Install Package"
+			],
+			[
+				"sss",
+				"Set Syntax: SQL"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/work/pemira/application/config/database.php",
+		"/D/xampp/htdocs/work/pemira/application/config/config.php",
+		"/D/xampp/htdocs/work/pemira/.htaccess",
+		"/D/xampp/htdocs/work/pemira/application/views/footer.php",
+		"/D/xampp/htdocs/work/pemira/application/views/header.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/controllers/home.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/views/uploader/upload.php",
+		"/D/xampp/htdocs/work/crayon_uploader/css/style.css",
+		"/D/xampp/htdocs/work/crayon_uploader/application/controllers/tahap3.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/views/penjurian/final.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/views/header.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/controllers/tahap1.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/views/penjurian/single.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/views/penjurian/menilai.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/controllers/tahap2.php",
+		"/D/xampp/htdocs/work/crayon_uploader/application/views/penjurian/gallery.php",
+		"/D/xampp/htdocs/work/crayon_uploader/.htaccess",
+		"/D/xampp/htdocs/work/crayon_uploader/application/config/routes.php",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/README.md",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/D/xampp/htdocs/work/crayon_uploader/application/config/database.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/models/peserta_model.php",
+		"/D/xampp/htdocs/work/crayon_uploader/peserta.sql",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/tahap1.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/config/database.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/header.php",
+		"/C/Users/Bahrun/Downloads/ilmu_komputer.sql",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/Users/Bahrun/Desktop/hosts",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/system/database/DB.php",
+		"/D/Web/Produk/crayon_uploader/peserta.sql",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian/final.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/tahap3.php",
+		"/C/Users/Bahrun/Desktop/peserta.sql",
+		"/C/Users/Bahrun/Desktop/hacker.sql",
+		"/D/aaa",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian/single.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/tahap2.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian/landing.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/final.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/config/routes.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/errors.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/error/404.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian/gallery.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/css/style.css",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader/upload.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian/menilai.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/system/libraries/Upload.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader_wrapper.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/login.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/home.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader_header.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader-header.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/main.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/penjurian.php",
+		"/C/Users/Bahrun/Desktop/crayon_uploader/.htaccess",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/.htaccess",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/gallery.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/tahap2",
+		"/D/Web/buat_tm.sql",
+		"/D/Web/user.sql",
+		"/C/xampp/htdocs/kerjaan/uploader/application/config/database.php",
+		"/C/Users/Bahrun/Desktop/uploader_crayon2012.sql",
+		"/C/xampp/htdocs/kerjaan/uploader/application/config/routes.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/juri/home.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/juri.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader/sukses.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/core/MY_Controller.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/system/database/DB_active_rec.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/config/config.php",
+		"/C/xampp/htdocs/kerjaan/ola/application/controllers/home.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/login.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian/main.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/wrapper.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/gallery/gallery.php",
+		"/C/xampp/htdocs/kerjaan/ola/application/controllers/penjurian.php",
+		"/C/xampp/htdocs/kerjaan/ola/application/models/peserta_model.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader - Copy/application/controllers/penjurian.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/config/autoload.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/footer.php",
+		"/C/xampp/htdocs/bahrunyu/owowo/contact/index.php",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/Emmet/emmet/snippets.json",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/User/Emmet.sublime-settings",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/ZenCoding/Default.sublime-keymap",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/xampp/htdocs/bahrunyu/mysql/mysql-html.css",
+		"/C/Users/Bahrun/Downloads/peserta.sql",
+		"/C/xampp/htdocs/bahrunyu/portfolio/css/style.css",
+		"/C/xampp/htdocs/bahrunyu/owowo/contact/process.php",
+		"/C/xampp/htdocs/bahrunyu/portfolio/index.html",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/js/js.js",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/js/jquery-1.8.2.min.js",
+		"/C/Users/Bahrun/Desktop/crayon_uploader/application/config/database.php",
+		"/C/Users/Bahrun/Desktop/crayon_uploader/application/config/config.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/modules/pendaftaran/views/pendaftaran_form.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/modules/pendaftaran/controllers/pendaftaran.php",
+		"/C/xampp/htdocs/kerjaan/crayon/sass/app.scss",
+		"/E/e-books/PHP/Source Code PHP & MYSQL Novice to Ninja/chapter4/sql/joketable.sql",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader/wrapper.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/uploader.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/css/bootstrap.css",
+		"/C/xampp/htdocs/kerjaan/crayon/galeri.php",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/Theme - Eight/package-metadata.json",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/Theme - Eight/README.md",
+		"/C/Users/Bahrun/AppData/Roaming/Sublime Text 2/Packages/Theme - Eight/Eight.sublime-theme",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/penjurian.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/modules/pendaftaran/views/pendaftaran_sukses.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/models/peserta_models.php",
+		"/E/e-books/PHP/Source Code PHP & MYSQL Novice to Ninja/chapter7/sql/ijdb.sql",
+		"/C/xampp/htdocs/forbidden/.htaccess",
+		"/C/xampp/htdocs/kerjaan/crayon/stylesheets/bahrun.css",
+		"/C/xampp/htdocs/kerjaan/crayon/javascripts/foundation/app.js",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/gallery.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/controllers/welcome.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/home.php",
+		"/C/xampp/htdocs/kerjaan/crayon_uploader/application/views/welcome_message.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/config/autoload.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/config/database.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/config/config.php",
+		"/C/xampp/htdocs/bahrunyu/maproject.sublime-project",
+		"/C/xampp/htdocs/bahrunyu/mainan/style.css",
+		"/C/xampp/htdocs/bahrunyu/google/style.css",
+		"/C/xampp/htdocs/bahrunyu/google/stylesheets/style.css",
+		"/C/xampp/htdocs/bahrunyu/mainan/index.html",
+		"/E/Materi Kuliah/SEMESTER 3/Algoritma dan Struktur Data II/Praktek/Tugas abis UTS/NomorSatu.java",
+		"/C/xampp/htdocs/kerjaan/crayon/application/views/wrapper.php",
+		"/C/xampp/htdocs/kerjaan/crayon/application/modules/side_event/controllers/side_event.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"int",
+			"argument",
+			"landing-page",
+			"Tahap",
+			"Final",
+			"list",
+			"primary",
+			"layakkah",
+			"argument",
+			"select",
+			"chapter",
+			"input",
+			"push",
+			"mclaren",
+			"source",
+			"MCLaren",
+			"arvo",
+			"border-box",
+			"magic",
+			"magic_quotes_gpc",
+			"magic",
+			"group",
+			"wrapper",
+			"wrappe"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/controllers/vote.php",
+					"settings":
+					{
+						"buffer_size": 502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/vote/form.php",
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								548,
+								548
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/wrapper.php",
+					"settings":
+					{
+						"buffer_size": 294,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"gall",
+				"application/views/penjurian/gallery.php"
+			],
+			[
+				"tahap1",
+				"application/controllers/tahap1.php"
+			],
+			[
+				"upload",
+				"application/views/uploader/upload.php"
+			],
+			[
+				"home",
+				"application/controllers/home.php"
+			],
+			[
+				"head",
+				"application/views/header.php"
+			],
+			[
+				"fin",
+				"application/views/penjurian/final.php"
+			],
+			[
+				"taha",
+				"application/controllers/tahap3.php"
+			],
+			[
+				"meni",
+				"application/views/penjurian/menilai.php"
+			],
+			[
+				"single",
+				"application/views/penjurian/single.php"
+			],
+			[
+				"menil",
+				"application/views/penjurian/menilai.php"
+			],
+			[
+				"tahap2",
+				"application/controllers/tahap2.php"
+			],
+			[
+				"hea",
+				"application/views/header.php"
+			],
+			[
+				"rou",
+				"application/config/routes.php"
+			],
+			[
+				"uplo",
+				"application/views/uploader/upload.php"
+			],
+			[
+				"rout",
+				"application/config/routes.php"
+			],
+			[
+				"landing",
+				"application/views/penjurian/landing.php"
+			],
+			[
+				"lan",
+				"application/views/penjurian/landing.php"
+			],
+			[
+				"pen",
+				"application/controllers/penjurian.php"
+			],
+			[
+				"main",
+				"application/views/main.php"
+			],
+			[
+				"singl",
+				"application/views/penjurian/single.php"
+			],
+			[
+				"ga",
+				"application/controllers/gallery.php"
+			],
+			[
+				"pe",
+				"application/controllers/penjurian.php"
+			],
+			[
+				"login",
+				"application/controllers/login.php"
+			],
+			[
+				"la",
+				"application/views/penjurian/landing.php"
+			],
+			[
+				"stye",
+				"css/style.css"
+			],
+			[
+				"sin",
+				"crayon_uploader/application/views/penjurian/single.php"
+			],
+			[
+				"galler",
+				"crayon_uploader/application/views/penjurian/gallery.php"
+			],
+			[
+				"penju",
+				"crayon_uploader/application/controllers/penjurian.php"
+			],
+			[
+				"pese",
+				"crayon_uploader/application/models/peserta_model.php"
+			],
+			[
+				"hom",
+				"crayon_uploader/application/controllers/home.php"
+			],
+			[
+				"suks",
+				"crayon_uploader/application/views/uploader/sukses.php"
+			],
+			[
+				"pes",
+				"crayon_uploader/application/models/peserta_model.php"
+			],
+			[
+				"up",
+				"crayon_uploader/application/views/uploader/upload.php"
+			],
+			[
+				"database",
+				"crayon_uploader/application/config/database.php"
+			],
+			[
+				"da",
+				"crayon_uploader/system/database/DB_active_rec.php"
+			],
+			[
+				"peser",
+				"crayon_uploader/application/models/peserta_model.php"
+			],
+			[
+				"config",
+				"crayon_uploader/application/config/config.php"
+			],
+			[
+				"w",
+				"crayon_uploader/application/views/wrapper.php"
+			],
+			[
+				"heade",
+				"crayon_uploader/application/views/header.php"
+			],
+			[
+				"suk",
+				"crayon_uploader/application/views/uploader/sukses.php"
+			],
+			[
+				"uploa",
+				"crayon_uploader/application/views/uploader/upload.php"
+			],
+			[
+				"wrapp",
+				"crayon_uploader/application/views/wrapper.php"
+			],
+			[
+				"foo",
+				"crayon_uploader/application/views/footer.php"
+			],
+			[
+				"he",
+				"crayon_uploader/application/views/header.php"
+			],
+			[
+				"header",
+				"crayon_uploader/application/views/header.php"
+			],
+			[
+				"gal",
+				"crayon/galeri.php"
+			],
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/xampp/htdocs/bahrunyu/maproject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
